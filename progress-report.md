@@ -1,7 +1,8 @@
 Họ tên sinh viên: Nguyễn Minh Hải Đăng – MSSV: 110121181
 Lớp: DA21TTA
 Tên đề tài: Nghiên cứu API và NodeJS để xây dựng website quản lý cửa hàng thiết bị điện tử
-Tuần 1: 06/11/2023 đến 12/11/2023
+
+  Tuần 1: 06/11/2023 đến 12/11/2023
 1. Nội dung thực hiện: 
 - Đã hoàn thành đề cương chi tiết cho đề tài.
 - Đã thêm giáo viên hướng dẫn vào Github.
