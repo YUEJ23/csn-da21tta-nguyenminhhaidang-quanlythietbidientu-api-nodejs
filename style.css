@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+header {
+  background: whitesmoke;
+}
+header .container .content__header {
+  display: flex;
+  align-items: center;
+}
+header .container .content__header .logo__header {
+  flex-basis: 10%;
+}
+header .container .content__header .menu__header {
+  flex-basis: 80%;
+}
+header .container .content__header .card__head {
+  flex-basis: 10%;
+}
+header .container .content__header .card__head .card {
+  position: relative;
+  width: 80px;
+}
+header .container .content__header .menu__header nav .nav__link li {
+  display: inline-block;
+  list-style: none;
+  margin: 0 20px;
+}
+header .container .content__header .menu__header nav .nav__link li a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 400;
+}
+header .container .content__header .menu__header nav .nav__link li a:hover {
+  text-decoration: underline;
+}
+header .container .content__header .card__head {
+  flex-basis: 10%;
+}
+/*--endheader--*/
+.slide__body .container .container_slide {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.slide__body .container .container_slide .slides {
+  width: 100%;
+  display: flex;
+}
+.slide__body .container .container_slide .slides .item {
+  min-width: 100%;
+}
+.slide__body .container .container_slide .slides .item img {
+  width: 100%;
+  display: block;
+}
+.slide__body .container .container_slide .next,
+.prev {
+  position: absolute;
+  top: 50%;
+  padding: 10px 15px;
+  background: #000;
+  color: #fff;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+.slide__body .container .container_slide .next:hover,
+.prev:hover {
+  background: sienna;
+}
+.slide__body .container .container_slide .next {
+  right: 0;
+}
