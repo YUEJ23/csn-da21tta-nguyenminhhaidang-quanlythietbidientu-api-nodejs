@@ -8,8 +8,11 @@
   max-width: 1140px;
   margin: 0 auto;
 }
+body {
+  background-color: whitesmoke;
+}
 header {
-  background: whitesmoke;
+  background: orange;
 }
 header .container .content__header {
   display: flex;
@@ -26,7 +29,8 @@ header .container .content__header .card__head {
 }
 header .container .content__header .card__head .card {
   position: relative;
-  width: 80px;
+  width: 60px;
+  top: -5px;
 }
 header .container .content__header .menu__header nav .nav__link li {
   display: inline-block;
@@ -42,9 +46,50 @@ header .container .content__header .menu__header nav .nav__link li a:hover {
   text-decoration: underline;
 }
 header .container .content__header .card__head {
-  flex-basis: 10%;
+  flex-basis: 45%;
+}
+input[type="text"] {
+  padding: 8px;
+  font-size: 16px;
+}
+button {
+  padding: 8px 12px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/*Thanh tìm kiếm */
+input[type="text"] {
+  padding: 8px;
+  font-size: 16px;
+}
+form {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: absolute;
+  top: 50px;
+  right: 15px;
+  margin-right: 450px;
+}
+input[type="text"],
+button {
+  margin-left: 5px;
+}
+
+button {
+  padding: 8px 12px;
+  font-size: 16px;
+  background-color: #30445b;
+  color: white;
+  border: none;
+  cursor: pointer;
 }
 /*--endheader--*/
+
 .slide__body .container .container_slide {
   position: relative;
   width: 100%;
@@ -77,4 +122,20 @@ header .container .content__header .card__head {
 }
 .slide__body .container .container_slide .next {
   right: 0;
+}
+/*Bootstrap*/
+.card {
+  display: inline-block;
+}
+.card {
+  margin-right: 40px;
+}
+.card {
+  position: relative;
+  left: 160px;
+  top: 10px;
+}
+.card {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
