@@ -14,3 +14,15 @@ Tên đề tài: Nghiên cứu API và NodeJS để xây dựng website quản l
 Hiện tại em chưa gặp khó khăn gì nhiều trong quá trình thực hiện đồ án. Nếu có gặp vấn để khó khăn liên quan đến đề tài em sẽ hỏi GVHD sau.
 
 ## --> GVHD đã duyệt tuần 1
+
+
+# Tuần 2: 20/11/2023 đến 26/11/2023
+1. Nội dung thực hiện:
+- Đã hoàn thành xây dựng front-end cho website.
+- Đã chạy demo website với GVHD.
+2. Nội dung công việc đang và sẽ thực hiện:
+- Đang hoàn thành xây dựng API dữ liệu quản lí cửa hàng thiết bị điện tử.
+- Viết báo cáo đề tài.
+3. Những khó khắn và kiến nghị:
+Hiện tại em chưa gặp khó khăn gì nhiều trong quá trình thực hiện đồ án. Nếu có gặp vấn để khó khăn liên quan đến đề tài em sẽ hỏi GVHD sau.
+  
