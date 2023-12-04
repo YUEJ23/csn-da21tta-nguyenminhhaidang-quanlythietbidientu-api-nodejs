@@ -25,4 +25,5 @@ Hiện tại em chưa gặp khó khăn gì nhiều trong quá trình thực hi�
 - Viết báo cáo đề tài.
 3. Những khó khắn và kiến nghị:
 Hiện tại em chưa gặp khó khăn gì nhiều trong quá trình thực hiện đồ án. Nếu có gặp vấn để khó khăn liên quan đến đề tài em sẽ hỏi GVHD sau.
+## --> GVHD đã duyệt tuần 2
   
