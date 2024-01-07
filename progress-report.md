@@ -26,4 +26,30 @@ Hiện tại em chưa gặp khó khăn gì nhiều trong quá trình thực hi�
 3. Những khó khắn và kiến nghị:
 Hiện tại em chưa gặp khó khăn gì nhiều trong quá trình thực hiện đồ án. Nếu có gặp vấn để khó khăn liên quan đến đề tài em sẽ hỏi GVHD sau.
 ## --> GVHD đã duyệt tuần 2
-  
+
+
+
+# Tuần 3: 04/12/2023 đến 10/12/2023
+1. Nội dung thực hiện:
+- Đã hoàn thành xây dựng chức năng quản lý sản phẩm sử dụng API đã xây dựng.
+- Đã chạy demo dự án website với GVHD.
+2. Nội dung công việc đang và sẽ thực hiện:
+- Xây dựng thêm chức năng cho website.
+- Viết báo cáo đề tài.
+
+
+# Tuần 4: 18/12/2023 đến 24/12/2023
+1. Nội dung thực hiện:
+- Đã hoàn thành xây dựng chức năng thêm và sửa sản phẩm
+- Đã chạy demo dự án với GVHD
+2. Nội dung công việc đang và sẽ thực hiện:
+- Xây dựng thêm chức năng xóa cho website.
+- Viết báo cáo đề tài.
+
+
+# Tuần 5: 25/12/2023 đến 31/12/2023
+1. Nội dung thực hiện:
+- Đã hoàn chỉnh đầy đủ các chức năng của website.
+- Đã chạy demo dự án với GVHD.
+2. Nội dung đang thực hiện:
+- Hoàn thiện bài báo cáo và nộp về Bộ môn.
